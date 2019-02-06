@@ -1,6 +1,6 @@
 from flask import session
 
-from tradenity.sdk import AuthTokenHolder
+from tradenity.token_holder import AuthTokenHolder
 
 
 class FlaskAuthTokenHolder(AuthTokenHolder):
