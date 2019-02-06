@@ -1,6 +1,8 @@
 Welcome to Tradenity Flask framework SDK extensions.
 ==========
 
+This extension library facilitates integration between Flask applications and [Python SDK](https://github.com/tradenity/python-sdk) for [Tradenity ecommerce API](https://www.tradenity.com).
+
 ## Installation
 
 This package is available through PyPI (Python Package Index), to install it type the following on the command line:
@@ -10,7 +12,7 @@ This package is available through PyPI (Python Package Index), to install it typ
 Or, add this line to your application's requirements.txt:
 
 ```python
-tradenity-flask-ext==0.1.0
+tradenity-flask-ext==0.7.0
 ```
 
 And then execute:
